@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\NetworkConnect\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\e9cb00b94b5d9019c339dfe0b140d4412b263960\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\NetworkConnect\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\e9cb00b94b5d9019c339dfe0b140d4412b263960\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\NetworkConnect\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Android\\.android\\build-cache\\e9cb00b94b5d9019c339dfe0b140d4412b263960\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\NetworkConnect\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Android\\.android\\build-cache\\e9cb00b94b5d9019c339dfe0b140d4412b263960\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\NetworkConnect\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Android\\.android\\build-cache\\e9cb00b94b5d9019c339dfe0b140d4412b263960\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\NetworkConnect\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Android\\.android\\build-cache\\e9cb00b94b5d9019c339dfe0b140d4412b263960\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\NetworkConnect\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Android\\.android\\build-cache\\e9cb00b94b5d9019c339dfe0b140d4412b263960\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\NetworkConnect\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\e9cb00b94b5d9019c339dfe0b140d4412b263960\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\NetworkConnect\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Android\\.android\\build-cache\\e9cb00b94b5d9019c339dfe0b140d4412b263960\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\NetworkConnect\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Android\\.android\\build-cache\\e9cb00b94b5d9019c339dfe0b140d4412b263960\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\NetworkConnect\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Android\\.android\\build-cache\\e9cb00b94b5d9019c339dfe0b140d4412b263960\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\NetworkConnect\\Application\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Android\\.android\\build-cache\\e9cb00b94b5d9019c339dfe0b140d4412b263960\\output\\res\\anim\\abc_fade_in.xml"
+    }
+]
